@@ -1,0 +1,51 @@
+{
+  "name": "VOLORIAL Token List",
+  "logoURI": "https://volorial.com/favicon.ico",
+  "keywords": ["volorial", "VOL", "multi-chain", "governance", "utility"],
+  "tags": {
+    "VOLORIAL": {
+      "name": "VOLORIAL",
+      "description": "VOLORIAL native token — multi-chain utility and governance",
+      "website": "https://volorial.com/"
+    }
+  },
+  "timestamp": "2026-07-10T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xe6748405B014120f4E483e316fef2799e3f08395",
+      "name": "VOLORIAL",
+      "symbol": "VOL",
+      "decimals": 18,
+      "logoURI": "https://volorial.com/favicon.ico",
+      "tags": ["VOLORIAL"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xC3BBbad936D0e60163CA64Af6f053B67a12d110a",
+      "name": "VOLORIAL",
+      "symbol": "VOL",
+      "decimals": 18,
+      "logoURI": "https://volorial.com/favicon.ico",
+      "tags": ["VOLORIAL"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xeCb79C65551d72e6D035eb6B83408c84a41CeF4d",
+      "name": "VOLORIAL",
+      "symbol": "VOL",
+      "decimals": 18,
+      "logoURI": "https://volorial.com/favicon.ico",
+      "tags": ["VOLORIAL"]
+    },
+    {
+      "chainId": 101,
+      "address": "9t2pfThzvje2KnprD5DuxevVnZkxSFNJi2yCy8n9pump",
+      "name": "VOLORIAL",
+      "symbol": "VOL",
+      "decimals": 6,
+      "logoURI": "https://volorial.com/favicon.ico",
+      "tags": ["VOLORIAL"]
+    }
+  ]
+}
